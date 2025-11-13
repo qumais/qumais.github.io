@@ -34,9 +34,9 @@ I have published 32 SCI journal and conference publications. I focuses on develo
 **Email 📧**: <u>rashidkhan@sztu.edu.cn</u> or <u>qureshii_2010@yahoo.com</u>.
 
 
-# 🔥 News
-- *2024.09*: &nbsp;🎉 I became a Research Associate Professor at the School of Artificial Intelligence at SZTU.
-- *2022.06*: &nbsp;🎉 I obtained a Ph.D. degree from [USTC](https://en.ustc.edu.cn/).
+# 🎉 News
+- *2024.09*: &nbsp; I became a Research Associate Professor at the School of Artificial Intelligence at SZTU.
+- *2022.06*: &nbsp; I obtained a Ph.D. degree from [USTC](https://en.ustc.edu.cn/).
 
 # 📝 Selected Publications 
 
@@ -71,14 +71,14 @@ I have published 32 SCI journal and conference publications. I focuses on develo
 -  Abdussalam, Amr, Zhongfu Ye, Ammar Hawbani, Majjed Al-Qatf, and **Rashid Khan**. [NumCap: A number-controlled multi-caption image captioning network](https://dl.acm.org/doi/abs/10.1145/3576927). ACM Transactions on Multimedia Computing, Communications and Applications 19, no. 4 (2023): 1-24.
 
 # 🎖 Honors and Awards
-- *2024* Best Paper Presentation Award, IEEE 4th International Conference on Computer Communication and AI (CCAI)
-- *2022* Chinese Government Scholarship (CAS-TWAS), Ph.D.
-- *2019* TA Award, ISCAI International Summer Camp on AI, USTC
-- *2014* Merit-based Scholarship, Near East University, Master’s Degree
+- *2024* &nbsp; Best Paper Presentation Award, IEEE 4th International Conference on Computer Communication and AI (CCAI)
+- *2022* &nbsp; Chinese Government Scholarship (CAS-TWAS), Ph.D.
+- *2019* &nbsp; TA Award, ISCAI International Summer Camp on AI, USTC
+- *2014* &nbsp; Merit-based Scholarship, Near East University, Master’s Degree
 
 # 🎓 Educations
-- *2018.09 - 2022.06*, Ph.D., University of Science and Technology of China, Hefei, China.
-- *2012.09 - 2014.06*, Master, Near East University, Cyprus.
+- *2018.09 - 2022.06*, &nbsp; Ph.D., University of Science and Technology of China, Hefei, China.
+- *2012.09 - 2014.06*, &nbsp; Master, Near East University, Cyprus.
 
 # 📖 Services
 ### Journal Reviewer

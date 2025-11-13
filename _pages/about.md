@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am serving as a Research Associate Professor at the School of Artificial Intelligence at Shenzhen Technology University since 2024.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I received a Ph.D. in Artificial Intelligence from the University of Science and Technology of China, Hefei, in 2022. I served as a postdoctoral researcher in Biomedical Engineering at Shenzhen University and Shenzhen Technology University from 2022 to 2024. 
+
+My research interests include Artificial Intelligence, Computer Vision, Medical Image Processing, Natural Language Processing, Medical Image Segmentation, XUV, CDI, and laser beam optimization. I focuses on developing deep learning algorithms for high-resolution cancer cell imaging and AI-driven laser diagnostics, with applications in precision oncology. I have published 32 SCI journal and conference publications.
+
+<span style="color:red;">Please feel free to contact me for academic communication and collaboration.</span>
 
 
 # 🔥 News
@@ -43,16 +47,16 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* Best Paper Presentation Award, IEEE 4th International Conference on Computer Communication and AI (CCAI)
+- *2022* Chinese Government Scholarship (CAS-TWAS), Ph.D.
+- *2019* TA Award, ISCAI International Summer Camp on AI, USTC
+- *2014* Merit-based Scholarship, Near East University, Master’s Degree
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎓 Educations
+- *2018.09 - 2022.06*, Ph.D., University of Science and Technology of China, Hefei, China.
+- *2012.09 - 2014.06*, Master, Near East University, Cyprus.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 📖 Services
+### Volunteer Reviewer
+- ACM Computing Surveys, Bioengineering, Frontiers in Neuroscience, BMC Neurology, Computer in Bio and Med, Neural Computing and Applications, IEEE TMI, Biomedical Signal Processing and Control, Scientific Report, Discover Artificial Intelligence, and IEEE Transactions on Consumer Electronics.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.

@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Rashid Khan"
   avatar           : "images/Rashid_profile.jpg"
-  bio              : "Rashid Khan"
+  bio              : ""
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
@@ -35,7 +35,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
   github           : # e.g., "github username"
   google_plus      :

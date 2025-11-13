@@ -23,15 +23,15 @@ I received a Ph.D. in Artificial Intelligence from the [University of Science an
 
 I have published 32 SCI journal and conference publications. I focuses on developing deep learning algorithms for high-resolution cancer cell imaging and AI-driven laser diagnostics, with applications in precision oncology. My research interests include:
 
-- Artificial Intelligence, Computer Vision, Natural Language Processing
-- Medical Image Processing, Medical Image Segmentation
-- XUV, CDI, Laser Beam Optimization
+- 🤖 Artificial Intelligence, Computer Vision, Natural Language Processing
+- ⚕️ Medical Image Processing, Medical Image Segmentation
+- ✴️ XUV, CDI, Laser Beam Optimization
 
 <p align="center">
   <span style="color:red;">Please feel free to contact me for academic communication and collaboration.</span>
 </p>
 
-**Email**: <u>rashidkhan@sztu.edu.cn</u> or <u>qureshii_2010@yahoo.com</u>.
+**Email📫**: <u>rashidkhan@sztu.edu.cn</u> or <u>qureshii_2010@yahoo.com</u>.
 
 
 # 🔥 News

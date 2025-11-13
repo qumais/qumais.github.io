@@ -32,7 +32,7 @@ My research interests include Artificial Intelligence, Computer Vision, Medical 
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉 I became a Research Associate Professor at the School of Artificial Intelligence at SZTU.
-- *2022.06*: &nbsp;🎉 I obtained a Ph.D. degree from USTC.
+- *2022.06*: &nbsp;🎉 I obtained a Ph.D. degree from [USTC](https://en.ustc.edu.cn/).
 
 # 📝 Selected Publications 
 

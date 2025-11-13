@@ -31,7 +31,7 @@ I have published 32 SCI journal and conference publications. I focuses on develo
   <span style="color:red;">Please feel free to contact me for academic communication and collaboration.</span>
 </p>
 
-**Email📫**: <u>rashidkhan@sztu.edu.cn</u> or <u>qureshii_2010@yahoo.com</u>.
+**Email 📫**: <u>rashidkhan@sztu.edu.cn</u> or <u>qureshii_2010@yahoo.com</u>.
 
 
 # 🔥 News

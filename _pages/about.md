@@ -19,13 +19,13 @@ redirect_from:
 
 I am serving as a Research Associate Professor at the School of Artificial Intelligence at Shenzhen Technology University since 2024.
 
-I received a Ph.D. in Artificial Intelligence from the University of Science and Technology of China, Hefei, in 2022. I served as a postdoctoral researcher in Biomedical Engineering at Shenzhen University and Shenzhen Technology University from 2022 to 2024. 
+I received a Ph.D. in Artificial Intelligence from the [University of Science and Technology of China](https://en.ustc.edu.cn/), Hefei, in 2022. I served as a postdoctoral researcher in Biomedical Engineering at Shenzhen University and Shenzhen Technology University from 2022 to 2024. 
 
 My research interests include Artificial Intelligence, Computer Vision, Medical Image Processing, Natural Language Processing, Medical Image Segmentation, XUV, CDI, and laser beam optimization. I focuses on developing deep learning algorithms for high-resolution cancer cell imaging and AI-driven laser diagnostics, with applications in precision oncology. I have published 32 SCI journal and conference publications.
 
 <span style="color:red;">Please feel free to contact me for academic communication and collaboration.</span>
 
-**Email**: <u>rashidkhan@sztu.edu.cn</u> or <u>qureshii_2010@yahoo.com</u>
+**Email**: <u>rashidkhan@sztu.edu.cn</u> or <u>qureshii_2010@yahoo.com</u>.
 
 
 # 🔥 News

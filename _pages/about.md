@@ -77,8 +77,8 @@ I have published 32 SCI journal and conference publications. I focuses on develo
 - *2014* &nbsp; Merit-based Scholarship, Near East University, Master’s Degree
 
 # 🎓 Educations
-- *2018.09 - 2022.06*, &nbsp; Ph.D., University of Science and Technology of China, Hefei, China.
-- *2012.09 - 2014.06*, &nbsp; Master, Near East University, Cyprus.
+- *2018.09 - 2022.06* &nbsp; Ph.D., University of Science and Technology of China, Hefei, China.
+- *2012.09 - 2014.06* &nbsp; Master, Near East University, Cyprus.
 
 # 📖 Services
 ### Journal Reviewer

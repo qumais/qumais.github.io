@@ -25,6 +25,8 @@ My research interests include Artificial Intelligence, Computer Vision, Medical 
 
 <span style="color:red;">Please feel free to contact me for academic communication and collaboration.</span>
 
+**Email**: <u>rashidkhan@sztu.edu.cn</u> or <u>qureshii_2010@yahoo.com</u>
+
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 I became a Research Associate Professor at the School of Artificial Intelligence at SZTU.
@@ -32,12 +34,12 @@ My research interests include Artificial Intelligence, Computer Vision, Medical 
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Rashid Khan**, Rashid Khan, Rashid Khan
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

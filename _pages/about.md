@@ -77,6 +77,6 @@ My research interests include Artificial Intelligence, Computer Vision, Medical 
 - *2012.09 - 2014.06*, Master, Near East University, Cyprus.
 
 # 📖 Services
-### Volunteer Reviewer
+### Journal Reviewer
 - ACM Computing Surveys, Bioengineering, Frontiers in Neuroscience, BMC Neurology, Computer in Bio and Med, Neural Computing and Applications, IEEE TMI, Biomedical Signal Processing and Control, Scientific Report, Discover Artificial Intelligence, and IEEE Transactions on Consumer Electronics.
 

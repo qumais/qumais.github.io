@@ -36,18 +36,6 @@ My research interests include Artificial Intelligence, Computer Vision, Medical 
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Rashid Khan**, Rashid Khan, Rashid Khan
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
 -  **Rashid Khan**, Chao Chen, Asim Zaman, Jiayi Wu, Haixing Mai, Liyilei Su, Yan Kang, and Bingding Huang. [RenalSegNet: automated segmentation of renal tumor, veins, and arteries in contrast-enhanced CT scans](https://link.springer.com/article/10.1007/s40747-024-01751-2). Complex & Intelligent Systems 11, no. 2 (2025): 1-20.
 
 -  **Rashid Khan**, Bingding Huang, and Yan Kang. [Customized m-RCNN and Hybrid Deep Classifier for Liver Cancer Segmentation and Classification](https://www.cell.com/heliyon/fulltext/S2405-8440(24)06559-9). Heliyon 10, no. 10 (2024): e30528
